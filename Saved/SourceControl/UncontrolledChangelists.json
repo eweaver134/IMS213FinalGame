@@ -1,0 +1,47 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/mrpoo/OneDrive/Documents/Unreal Projects/ComaCourse/Content/Levels/ComaCourse.umap",
+				"C:/Users/mrpoo/OneDrive/Documents/Unreal Projects/ComaCourse/Content/BP/BP_MovingPlatform.uasset",
+				"C:/Users/mrpoo/OneDrive/Documents/Unreal Projects/ComaCourse/Content/BP/BP_Key.uasset",
+				"C:/Users/mrpoo/OneDrive/Documents/Unreal Projects/ComaCourse/Content/BP/BP_GarageDoor.uasset",
+				"C:/Users/mrpoo/OneDrive/Documents/Unreal Projects/ComaCourse/Content/Materials/MM_statusGreen.uasset",
+				"C:/Users/mrpoo/OneDrive/Documents/Unreal Projects/ComaCourse/Content/Materials/MM_statusRed.uasset",
+				"C:/Users/mrpoo/OneDrive/Documents/Unreal Projects/ComaCourse/Content/BP/BP_Coin.uasset",
+				"C:/Users/mrpoo/OneDrive/Documents/Unreal Projects/ComaCourse/Content/Assets/Megascans/3D_Assets/Old_Roman_Coin_ueinbaiva/S_Old_Roman_Coin_ueinbaiva_lod3_Var1.uasset",
+				"C:/Users/mrpoo/OneDrive/Documents/Unreal Projects/ComaCourse/Content/Assets/Megascans/3D_Assets/Old_Roman_Coin_ueinbaiva/MI_Old_Roman_Coin_ueinbaiva_2K.uasset",
+				"C:/Users/mrpoo/OneDrive/Documents/Unreal Projects/ComaCourse/Content/Assets/Megascans/3D_Assets/Old_Roman_Coin_ueinbaiva/T_OldRomanCoin_ueinbaiva_2K_DpR.uasset",
+				"C:/Users/mrpoo/OneDrive/Documents/Unreal Projects/ComaCourse/Content/Assets/Megascans/3D_Assets/Old_Roman_Coin_ueinbaiva/T_Old_Roman_Coin_ueinbaiva_2K_N.uasset",
+				"C:/Users/mrpoo/OneDrive/Documents/Unreal Projects/ComaCourse/Content/Assets/Megascans/3D_Assets/Old_Roman_Coin_ueinbaiva/T_Old_Roman_Coin_ueinbaiva_2K_D.uasset",
+				"C:/Users/mrpoo/OneDrive/Documents/Unreal Projects/ComaCourse/Content/widgets/UI_CoinsCounter.uasset",
+				"C:/Users/mrpoo/OneDrive/Documents/Unreal Projects/ComaCourse/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/mrpoo/OneDrive/Documents/Unreal Projects/ComaCourse/Content/Assets/sounds/coinPickup.uasset",
+				"C:/Users/mrpoo/OneDrive/Documents/Unreal Projects/ComaCourse/Content/Assets/sounds/mixkit-game-treasure-coin-2038.uasset",
+				"C:/Users/mrpoo/OneDrive/Documents/Unreal Projects/ComaCourse/Content/Assets/sounds/music1.uasset",
+				"C:/Users/mrpoo/OneDrive/Documents/Unreal Projects/ComaCourse/Content/Assets/sounds/music2.uasset",
+				"C:/Users/mrpoo/OneDrive/Documents/Unreal Projects/ComaCourse/Content/BP/Enemy.uasset",
+				"C:/Users/mrpoo/OneDrive/Documents/Unreal Projects/ComaCourse/Content/Levels/map_MainGame.umap",
+				"C:/Users/mrpoo/OneDrive/Documents/Unreal Projects/ComaCourse/Content/Levels/map_GameStart.umap",
+				"C:/Users/mrpoo/OneDrive/Documents/Unreal Projects/ComaCourse/Content/widgets/WB_GameStart.uasset",
+				"C:/Users/mrpoo/OneDrive/Documents/Unreal Projects/ComaCourse/Content/widgets/WB_GameEnd.uasset",
+				"C:/Users/mrpoo/OneDrive/Documents/Unreal Projects/ComaCourse/Content/Assets/Images/gameEnd.uasset",
+				"C:/Users/mrpoo/OneDrive/Documents/Unreal Projects/ComaCourse/Content/Assets/Images/gameStart.uasset",
+				"C:/Users/mrpoo/OneDrive/Documents/Unreal Projects/ComaCourse/Content/BP/BP_EndPlatform.uasset",
+				"C:/Users/mrpoo/OneDrive/Documents/Unreal Projects/ComaCourse/Content/BP/BP_PressurePlate.uasset",
+				"C:/Users/mrpoo/OneDrive/Documents/Unreal Projects/ComaCourse/Content/BP/BP_Enemy.uasset",
+				"C:/Users/mrpoo/OneDrive/Documents/Unreal Projects/ComaCourse/Content/BP/BP_TimedDoor.uasset",
+				"C:/Users/mrpoo/OneDrive/Documents/Unreal Projects/ComaCourse/Content/Megascans/3D_Assets/Old_Roman_Coin_ueinbaiva/T_Old_Roman_Coin_ueinbaiva_2K_D.uasset",
+				"C:/Users/mrpoo/OneDrive/Documents/Unreal Projects/ComaCourse/Content/Megascans/3D_Assets/Old_Roman_Coin_ueinbaiva/T_Old_Roman_Coin_ueinbaiva_2K_N.uasset",
+				"C:/Users/mrpoo/OneDrive/Documents/Unreal Projects/ComaCourse/Content/Megascans/3D_Assets/Old_Roman_Coin_ueinbaiva/T_OldRomanCoin_ueinbaiva_2K_DpR.uasset",
+				"C:/Users/mrpoo/OneDrive/Documents/Unreal Projects/ComaCourse/Content/Megascans/3D_Assets/Old_Roman_Coin_ueinbaiva/MI_Old_Roman_Coin_ueinbaiva_2K.uasset",
+				"C:/Users/mrpoo/OneDrive/Documents/Unreal Projects/ComaCourse/Content/Megascans/3D_Assets/Old_Roman_Coin_ueinbaiva/S_Old_Roman_Coin_ueinbaiva_lod3_Var1.uasset",
+				"C:/Users/mrpoo/OneDrive/Documents/Unreal Projects/ComaCourse/Content/widgets/UI_coins.uasset",
+				"C:/Users/mrpoo/OneDrive/Documents/Unreal Projects/ComaCourse/Content/BP/BP_MovingPlatfomr.uasset"
+			]
+		}
+	]
+}
